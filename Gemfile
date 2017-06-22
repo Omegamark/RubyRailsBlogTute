@@ -34,6 +34,9 @@ gem 'jbuilder', '~> 2.5'
   # **The following 2 dependencies are from the tutorial**
 gem 'simple_form', '~> 3.2'
 gem 'bootstrap-sass', '~> 3.3'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'ckeditor', '~> 4.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
